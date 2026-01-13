@@ -1,7 +1,7 @@
 {
   "name": "cemu",
   "version-string": "1.0",
-  "builtin-baseline": "f0fb3ddba5135b80982668de39dbaa139c00d281",
+  "builtin-baseline": "af752f21c9d79ba3df9cb0250ce2233933f58486",
   "dependencies": [
     "pugixml",
     "zlib",
@@ -64,7 +64,7 @@
   "overrides": [
     {
       "name": "glslang",
-      "version": "15.1.0"
+      "version": "16.1.0"
     },
     {
       "name": "sdl2",
